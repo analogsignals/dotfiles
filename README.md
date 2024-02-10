@@ -7,7 +7,7 @@ You may notice there is no tmux.conf. Yes.
 
 I like to live *dangerously*
 
-#Install
+# Install
 This installs chezmoi and sets up the dotfiles in a snazzy little oneliner:
 ```console
 sh -c "$(curl -fsLS get.chezmoi.io)" -- init --apply $GITHUB_USERNAME
