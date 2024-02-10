@@ -1,5 +1,5 @@
 # Jeeven's dotfiles
-Caveat emptor! These dotfiles mostly contain what may seem like insane defaults, and settings that may leave you scratching your head.
+**Caveat emptor!** These dotfiles mostly contain what may seem like insane defaults, and settings that may leave you scratching your head.
 
 Probably includes dotfiles for things like neovim, zsh, brewfiles, and whatever trendy tool that's in vogue whenver you read this.
 
